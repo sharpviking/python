@@ -1,0 +1,8 @@
+print(26+11)
+print(26+11)
+print(26-11)
+print(26*11)
+print(26/11)
+print(26//11)
+print(26 % 11)
+print(26**11)
